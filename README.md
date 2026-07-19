@@ -1,4 +1,4 @@
-HEAD
+
 # RAG-Based Technical Documentation Assistant
 
 A self-corrective Retrieval-Augmented Generation system built with **LangGraph**, **ChromaDB**,
