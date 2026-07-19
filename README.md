@@ -6,6 +6,10 @@ and **FastAPI**. It answers natural-language questions over a small technical do
 corpus (FastAPI, Pydantic, LangGraph, ChromaDB, and RAG/Self-RAG concepts), grading its own
 retrievals and generations before returning an answer.
 
+## Demo video 
+[▶ Watch Demo](https://drive.google.com/file/d/16JP4Yp0hO-LCPYaRFMeCsiBk4HTMg6pO/view?usp=sharing)
+
+
 ## Table of Contents
 
 - [Architecture](#architecture)
