@@ -1,3 +1,4 @@
+HEAD
 # RAG-Based Technical Documentation Assistant
 
 A self-corrective Retrieval-Augmented Generation system built with **LangGraph**, **ChromaDB**,
@@ -446,3 +447,6 @@ tests pass as of this submission.
 To manually verify ingestion/chunking without any API key: `python scripts/ingest.py --dir corpus`
 will fail at the embedding step without a key, but `app.ingestion.load_directory` +
 `chunk_documents` (used directly, see `tests/`) can be exercised standalone.
+=======
+# Rag-Doc-Assistant-
+ 065958dae2c336d159a622ee7a4c7186a7cb9a95
